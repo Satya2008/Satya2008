@@ -1,3 +1,4 @@
+[![MasterHead]([![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)])]
 <h1 align="center">Hi 👋, I'm Satyanand Shrivastava</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 <img align = "right" alt="coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
