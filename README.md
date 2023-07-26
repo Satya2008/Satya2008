@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  Visit my **[Portfolio](https://satya2008.github.io/)**
+  Visit my (https://satya2008.github.io)
 <a href="https://linkedin.com/in/linkedin.com/in/satyanand-shrivastava-88a975197" target="blank"><img align="center" 
                                                                                                       src="linkedin.com/in/satyanand-shrivastava-88a975197"
                                                                                                       alt="linkedin.com/in/satyanand-shrivastava-88a975197" height="30" width="40" /></a>
