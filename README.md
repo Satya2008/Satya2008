@@ -5,6 +5,23 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satya2008&label=Profile%20views&color=0e75b6&style=flat" alt="satya2008" /> </p>
 
+
+   ## :man_technologist: About Me :
+I am an aspiring Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+
+- :zap: In my free time, I read tech articles, read novels
+- 🌱 I’m currently learning **Spring boot, MySql, Hibernate**
+- 👯 I am also looking for some **Open Source Opportunities**
+- 👨🏻‍🎓 Visit my **[Portfolio](https://Satya2008.github.io/)**
+- 👨‍💻 All of my projects are available at **[here](https://github.com/Satya2008?tab=repositories)**
+- 🪢 Know more about me **[My Resume](https://drive.google.com/file/d/1h_E_HoqVH8bXeK-l7LM4a55vfWsKSO-l/view?usp=sharing)**
+-  💬 Ask me about **HTML, CSS, JavaScript, Java, Spring boot**
+- 📫 How to reach me **sayanand807@gmail.com**
+
+---
+
+
+
 - 🌱 I’m currently learning **Java**
 
 - 👨‍💻 All of my projects are available at [https://satya2008.github.io/](https://satya2008.github.io/)
