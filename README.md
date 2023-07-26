@@ -13,13 +13,18 @@ I am an aspiring Full Stack Developer <img src="https://media.giphy.com/media/WU
 - 🌱 I’m currently learning **Spring boot, MySql, Hibernate**
 - 👯 I am also looking for some **Open Source Opportunities**
 - 👨🏻‍🎓 Visit my **[Portfolio](https://Satya2008.github.io/)**
-- Visit my **[Linkedin](www.linkedin.com/in/satyanand-shrivastava-88a975197/)**
 - 👨‍💻 All of my projects are available at **[here](https://github.com/Satya2008?tab=repositories)**
 - 🪢 Know more about me **[My Resume](https://drive.google.com/file/d/1h_E_HoqVH8bXeK-l7LM4a55vfWsKSO-l/view?usp=sharing)**
 -  💬 Ask me about **HTML, CSS, JavaScript, Java, Spring boot**
 - 📫 How to reach me **sayanand807@gmail.com**
 
 ---
+
+- <h3 align="left">🤝Connect with me on:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/satyanand-shrivastava-88a975197/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
+
 
 
 <h3 align="left">Languages and Tools:</h3>
